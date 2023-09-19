@@ -1,0 +1,9 @@
+folder_tst: /home/tata/tst
+folder_out: /home/tata/out
+folder_ext: /home/tata/folder1
+sub_folder: sub_folder
+count: 3
+bs: 1M
+stat_file: /home/tata/stat.txt
+key_t: -tzip
+output_file: output.zip
